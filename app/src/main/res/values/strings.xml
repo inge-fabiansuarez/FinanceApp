@@ -5,4 +5,6 @@
     <string name="txt_sing_up">Registrarse</string>
     <string name="txt_email_login">Correo Electronico</string>
     <string name="txt_pass">Contraseña</string>
+    <string name="txt_agregar_cuenta">Agregar Cuenta</string>
+    <string name="txt_accounts">Cuentas</string>
 </resources>

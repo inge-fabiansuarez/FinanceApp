@@ -1,4 +1,4 @@
-package com.fabiansuarez.financeapp
+package com.fabiansuarez.financeapp.view.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import com.airbnb.lottie.LottieAnimationView
+import com.fabiansuarez.financeapp.R
 
 
 class IntroActivity : AppCompatActivity() {
@@ -22,7 +23,7 @@ class IntroActivity : AppCompatActivity() {
         runAnimation()
 
         android.os.Handler().postDelayed({
-            startActivity(Intent(this,LoginActivity::class.java))
+            startActivity(Intent(this, LoginActivity::class.java))
             finish()
         }, 2600)
        }
