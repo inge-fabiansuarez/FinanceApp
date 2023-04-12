@@ -7,4 +7,8 @@
     <string name="txt_pass">Contraseña</string>
     <string name="txt_agregar_cuenta">Agregar Cuenta</string>
     <string name="txt_accounts">Cuentas</string>
+    <string name="txt_create_new_account">Crear Nueva Cuenta</string>
+    <string name="txt_new_account">Nueva Cuenta</string>
+    <string name="txt_guardar">Guardar</string>
+
 </resources>
